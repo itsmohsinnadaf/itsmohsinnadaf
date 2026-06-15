@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎯 Java Full Stack Developer based in **Pune, Maharashtra, India**, on a focused 90-day path to becoming job-ready
+- 🎯 Java Full Stack Developer based in **India**, on a focused 90-day path to becoming job-ready
 - 🔭 Currently building **CineSphere** — a personal movie library app (React frontend + Java/Spring Boot backend)
 - 🌱 Currently strengthening **Spring Boot, Spring Security, JWT, REST APIs, and System Design**
 - 💼 Actively preparing for roles as a **Java Full Stack Developer**
