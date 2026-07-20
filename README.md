@@ -3,18 +3,26 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmohsinnadaf&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/mohsin-nadaf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:itsmohsinnadaf@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
+<br>
 
 ### 👨‍💻 About Me
-- 🎯 Java Full Stack Developer based in **India**
-- 🔭 Currently building **CineSphere** — a personal movie library app (React frontend + Java/Spring Boot backend)
-- 🌱 Currently strengthening **Spring Boot, Spring Security, JWT, REST APIs, and System Design**
-- 💼 Actively preparing for roles as a **Java Full Stack Developer**
+
+- 🎯 Java Full Stack Developer based in **India**, focused on building production-ready backend systems and clean frontend experiences
+- 🔭 Currently building **[CineSphere](https://github.com/itsmohsinnadaf/CineSphere)** — a personal streaming platform with React on the frontend and a Node.js/Express + FFmpeg backend, integrated with OneDrive via the Microsoft Graph API
+- 🌱 Deepening my expertise in **Spring Boot, Spring Security, JWT, REST API design, and System Design**
+- 💼 Actively taking on freelance **Spring Boot REST API** projects and preparing for full-time Java Full Stack roles
+- ⚡ Fun fact: I write technical content on Java Full Stack development alongside building projects
 - 📫 Let's connect — details below!
 
----
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -30,6 +38,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
 
 **Frontend**
@@ -49,7 +59,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<br>
 
 ### 📊 GitHub Stats
 
@@ -62,13 +72,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmohsinnadaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<br>
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-**[CineSphere](https://github.com/itsmohsinnadaf/CineSphere)** — A personal movie library application built with a JavaScript frontend and a Java/Spring Boot backend, covering REST APIs and database integration.
+| Project | Description |
+|---|---|
+| **[CineSphere](https://github.com/itsmohsinnadaf/CineSphere)** | Personal streaming platform — React (Vite) frontend, Node.js/Express + FFmpeg backend, with OneDrive integration via Microsoft Graph API |
+| **PGmate.in** | Paying guest accommodation management platform — currently expanding its tool suite beyond rent receipt and food menu generators |
 
----
+<br>
 
 ### 🤝 Connect with Me
 
