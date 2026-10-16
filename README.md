@@ -1,95 +1,191 @@
-<h1 align="center">Hi 👋, I'm Mohsin Nadaf</h1>
-<h3 align="center">Java Full Stack Developer | Java • Spring Boot • React • MySQL • MongoDB</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmohsinnadaf&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/mohsin-nadaf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:itsmohsinnadaf@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Mohsin%20Nadaf&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descSize=20&descAlignY=62" width="100%" alt="Mohsin Nadaf header" />
 
-<br>
+<a href="https://github.com/itsmohsinnadaf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=760&height=50&lines=Building+production-ready+backends+%E2%98%95;Spring+Boot+%C2%B7+Spring+Security+%C2%B7+JWT;Clean+REST+APIs+%2B+modern+React+UIs;Open+for+freelance+Spring+Boot+projects+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-### 👨‍💻 About Me
+<br/>
 
-- 🎯 Java Full Stack Developer based in **India**, focused on building production-ready backend systems and clean frontend experiences
-- 🔭 Currently building **[CineSphere](https://github.com/itsmohsinnadaf/CineSphere)** — a personal streaming platform with React on the frontend and a Node.js/Express + FFmpeg backend, integrated with OneDrive via the Microsoft Graph API
-- 🌱 Deepening my expertise in **Spring Boot, Spring Security, JWT, REST API design, and System Design**
-- 💼 Actively taking on freelance **Spring Boot REST API** projects and preparing for full-time Java Full Stack roles
-- ⚡ Fun fact: I write technical content on Java Full Stack development alongside building projects
-- 📫 Let's connect — details below!
+<img src="https://komarev.com/ghpvc/?username=itsmohsinnadaf&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<a href="https://github.com/itsmohsinnadaf?tab=followers"><img src="https://img.shields.io/github/followers/itsmohsinnadaf?style=for-the-badge&logo=github&color=181717" alt="followers" /></a>
+<img src="https://img.shields.io/badge/Status-Open%20for%20Work-2ea043?style=for-the-badge" alt="open for work" />
 
-<br>
+<br/><br/>
 
-### 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/mohsin-nadaf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:itsmohsinnadaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://pgmate.in" target="_blank"><img src="https://img.shields.io/badge/PGmate.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PGmate"/></a>
 
-**Languages**
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-**Backend**
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
+<table>
+<tr>
+<td width="58%" valign="top">
 
-**Frontend**
+```java
+public class MohsinNadaf {
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  String role     = "Java Full Stack Developer";
+  String location = "India 🇮🇳";
+  String[] focus  = {
+    "Spring Boot", "Spring Security",
+    "JWT", "REST API Design", "System Design"
+  };
+  boolean openForFreelance = true;
 
-**Databases**
+  String motto() {
+    return "Ship clean code. Learn daily.";
+  }
+}
+```
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</td>
+<td width="42%" valign="top">
 
-**Tools & Platforms**
+🔭 **Building now**
+CineSphere, a personal streaming platform
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🌱 **Leveling up**
+Spring Security, JWT, System Design
 
-<br>
+💼 **Looking for**
+Freelance Spring Boot REST API work & full-time Java Full Stack roles
 
-### 📊 GitHub Stats
+✍️ **Writing**
+Technical content on Java Full Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmohsinnadaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmohsinnadaf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="38%" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsmohsinnadaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
-<br>
+<!-- ===================== SERVICES ===================== -->
+## 💼 What I Can Build For You
 
-### 📌 Featured Projects
+<div align="center">
 
-| Project | Description |
-|---|---|
-| **[CineSphere](https://github.com/itsmohsinnadaf/CineSphere)** | Personal streaming platform — React (Vite) frontend, Node.js/Express + FFmpeg backend, with OneDrive integration via Microsoft Graph API |
-| **PGmate.in** | Paying guest accommodation management platform — currently expanding its tool suite beyond rent receipt and food menu generators |
+| 🔧 Service | 📦 What you get |
+|:---|:---|
+| **Spring Boot REST APIs** | Clean, versioned, well-documented endpoints (Swagger / OpenAPI) |
+| **Authentication & Security** | Spring Security + JWT, role-based access control |
+| **Database Design** | MySQL schemas and MongoDB collections with proper indexing |
+| **Full Stack Integration** | React frontends wired to your backend, CORS and error handling done right |
+| **API Fixes & Refactoring** | Debugging, performance tuning and cleanup of existing Spring Boot services |
 
-<br>
+</div>
 
-### 🤝 Connect with Me
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/mohsin-nadaf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:itsmohsinnadaf@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,nodejs,express&perline=8" alt="languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,idea,vscode&perline=7" alt="databases and tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</div>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [CineSphere](https://github.com/itsmohsinnadaf/CineSphere)
+Personal streaming platform: **React (Vite)** frontend, **Node.js / Express + FFmpeg** backend, with **OneDrive** integration through the **Microsoft Graph API**.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 [PGmate.in](https://pgmate.in)
+Paying guest accommodation management platform, now expanding its tool suite beyond the **rent receipt** and **food menu** generators.
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsmohsinnadaf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmohsinnadaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=itsmohsinnadaf&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmohsinnadaf&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity Graph" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmohsinnadaf/itsmohsinnadaf/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmohsinnadaf/itsmohsinnadaf/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/itsmohsinnadaf/itsmohsinnadaf/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Let's Work Together
+
+<div align="center">
+
+**Need a Spring Boot REST API, JWT authentication, or a full-stack build?**
+**Send me a message and let's talk.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mohsin-nadaf" target="_blank"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:itsmohsinnadaf@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%E2%9C%A8;%E2%AD%90+a+repo+if+you+liked+something!" alt="Thanks" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
