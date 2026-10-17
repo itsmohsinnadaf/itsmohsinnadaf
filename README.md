@@ -9,8 +9,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=itsmohsinnadaf&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<a href="https://github.com/itsmohsinnadaf?tab=followers"><img src="https://img.shields.io/github/followers/itsmohsinnadaf?style=for-the-badge&logo=github&color=181717" alt="followers" /></a>
+<img src="https://hits.sh/github.com/itsmohsinnadaf.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=555555&v=2" alt="profile views" />
+<a href="https://github.com/itsmohsinnadaf?tab=followers"><img src="https://img.shields.io/github/followers/itsmohsinnadaf?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717&cacheSeconds=3600" alt="followers" /></a>
 <img src="https://img.shields.io/badge/Status-Open%20for%20Work-2ea043?style=for-the-badge" alt="open for work" />
 
 <br/><br/>
