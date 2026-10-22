@@ -42,7 +42,7 @@ public class MohsinNadaf {
   boolean openForFreelance = true;
 
   String motto() {
-    return "Ship clean code. Learn daily.";
+    return "Ship clean code & Learn daily.";
   }
 }
 ```
